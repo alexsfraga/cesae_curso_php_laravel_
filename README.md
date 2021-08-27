@@ -1,4 +1,4 @@
-# Linguagem de programação PHP web de servidor (Cesae) - Test Junit
+# Linguagem de programação PHP web de servidor (Cesae) 
 Curso ministrado pelo centro de formação Cesae. 
 
 Conteudo do curso voltado a implementação de um site em php com a framework Laragon  da Laravel
