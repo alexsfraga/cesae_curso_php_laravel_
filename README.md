@@ -7,7 +7,7 @@ Projeto criado com as seguintes ferramentas:
 
 -Project: Laravel  
 -Container PHP: Laragon  
--Language: PHP-7.4.19  
+-Language: PHP-7.4.19 / BLADE / HTML  
 -IDE Visual Studio Code  
 -Banco de Dados: Mysql  
 
